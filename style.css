@@ -17,7 +17,8 @@ body {
 }
 
 .overskrift {
-    font-family: 'Gibson', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: bold;
     color: #233245;
     font-size: 2rem;
     margin-top: 10vw;
@@ -25,7 +26,7 @@ body {
 }
 
 .underoverskrift {
-    font-family: 'Gibson', cursive;
+    font-family: 'Roboto', sans-serif;
     color: #ea5045;
     font-size: 1rem;
     margin-top: 5vw;
@@ -33,7 +34,7 @@ body {
 }
 
 h3 {
-    font-family: 'Gibson', cursive;
+    font-family: 'Roboto', sans-serif;
     color: #233245;
     font-size: 0.9rem;
     margin-top: 4vw;
@@ -41,7 +42,7 @@ h3 {
 }
 
 p {
-    font-family: 'Gibson', cursive;
+    font-family: 'Roboto', sans-serif;
     color: #233245;
     font-size: 0.7rem;
     margin-top: 2vw;
@@ -72,7 +73,8 @@ p {
 }
 
 li {
-    font-family: 'Gibson';
+    font-family: 'Roboto', sans-serif;
+    ;
     color: white;
     font-size: 2rem;
     margin: 10vw;
@@ -111,7 +113,7 @@ a:-webkit-any-link {
     padding: 5vw;
     /*    font*/
     color: #233245;
-    font-family: 'Gibson', cursive;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: inherit;
 }
 
@@ -138,7 +140,7 @@ label {
 }
 
 .psw {
-    font-family: 'Gibson', cursive;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: inherit;
     color: #ea5045;
 
